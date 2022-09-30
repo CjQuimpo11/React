@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "full_name": "Clifford Quimpo",
+      "email": "cliffordquimpoiii@gmail.com",
+      "phone": "1221323",
+      "id": 2
+    },
+    {
+      "full_name": "Cj Quimpo",
+      "email": "cj@gmail.com",
+      "phone": "1212",
+      "id": 3
+    },
+    {
+      "full_name": "Melizza",
+      "email": "melquimpo",
+      "phone": "12324324",
+      "id": 4
+    },
+    {
+      "full_name": "Fuck yoou",
+      "email": "gagoka@gmail.com",
+      "phone": "1211212",
+      "id": 5
+    },
+    {
+      "full_name": "Kimberly Chelsea",
+      "email": "chelseaquimpo2009@gmail.com",
+      "phone": "1221323",
+      "id": 6
+    }
+  ]
+}
